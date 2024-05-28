@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Green">#2a395a</color>
+    <color name="Toolbar">#17253f</color>
+    <color name="crd">#FDF2F2</color>
+
+
+    <color name="darkBlue">#17253f</color>
+    <color name="darkgreen">#3790a5</color>
+    <color name="lightgreen">#5bc6c6</color>
+    <color name="lightblue">#2a395a</color>
+</resources>

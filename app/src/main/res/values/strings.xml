@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AdmitCard</string>
+
+
+    <string name="line_1">Candidates must reach to the examination venue at least 1 hour before the start of the examination.</string>
+    <string name="line_2">
+        Candidates have to bring his/her own only android based smartphone or tablet / laptop with only windows
+        operating system with fully charged with battery backup of at least 3 hours and with good Internet connectivity.
+        Use only updated google chrome browser for online examination. No other electronic gadgets are allowed inside
+        examination hall like iphone etc.(In absence of mentioned technical specification, candidates are solely
+        responsible for any examination related issue(s).)
+
+</string>
+
+    <string name="line_3">Wi-Fi Internet facility is avialable in the university, candidates may avail that facility during the examination.</string>
+    <string name="line_4">No candidate shall be permitted to enter after half hour of start of the examination.</string>
+    <string name="line_5">No candidate shall be permitted to leave the Examination Room/ Hall before the end of the examination.</string>
+    <string name="line_6">On completion of the examination, please wait for instructions from Invigilator and do not get up from your seat until advised.</string>
+    <string name="line_7">The Admit Card is provisional, subject to satisfying the eligibility conditions as given in the Information Bulletin.</string>
+    <string name="line_8">Candidates are advised to verify the location of the test venue, a day in advance so that they do not face any problem on the day of the test.</string>
+    <string name="line_9">If religion/customs require you to wear specific attire, please visit Centre early for thorough checking and mandatory frisking.</string>
+    <string name="line_10">No Candidate would be allowed to enter the Examination Centre, without Admit Card and Valid ID Proof.</string>
+    <string name="line_11">Marking Scheme:Each correctly answered question will earn one mark, with a maximum of 50 marks for the paper.Question with no response indicated will not be awarded any mark and there will be no negative marking for all questions numbering 1-50.</string>
+    <string name="line_12">Language of the question paper: Question paper for the examination shall be bilingual, i.e., in ENGLISH and HINDI.In case of any discrepancy in English and Hindi versions of question(s), English version will be taken as the final version.</string>
+    <string name="line_13">No Candidate should adopt any unfair means or indulge in any unfair examination practices. University reserves the right to immediately disbar any candidate who gets involved in any malpractice.</string>
+    <string name="line_14">Candidate is not allowed to use a calculator during the test (not even through electronic device e.g. mobile or laptop).</string>
+    <string name="line_15">Candidates must complete the 50 multiple-choice questions within the 1 hrs. time frame allotted for the exam.</string>
+
+
+    <string name="LineH1">
+    <![CDATA[
+        vH;fFkZ;ksa dks ijh{kk çkjEHk gksus ds 1 ?kaVs igys ijh{kk dsaæ ij igqapuk gksxkAA½
+    ]]>
+</string>
+
+
+    <string name="LineH2">vH;fFkZ;ksa dks de ls de 3 ?kaVs ds cSVjh cSdvi vkSj vPNh baVjusV lqfo/kk ds lkFk viuk dsoy ,aMª‚ bM vk/kkfjr LekVZQksu ;k VScysV vFkok dsoy foaMkst़ v‚ijsfVax flLVe okyk ySiV‚i iwjh rjg pktZ dj ds ykuk gksxk A v‚uykbu ijh{kk ds fy, dsoy viMsVsM xwxy Økse czkmt़j dk gh ç;ksx djsaA dksbZ vU; bysDVª‚ fud xStsV~l ijh{kk g‚y ds vanj ykus dh vuqefr ugha gksxh tSls vkbZQksu vkfnA ¼fn, x, rduhdh fof\'k"Vrkvksa ds vHkko esa] ijh{kk lac/kh dfBukb;ksa ds fy, mEehnokj Lo;a ftEesnkj gksaxsgksa xsA½</string>
+
+</resources>
